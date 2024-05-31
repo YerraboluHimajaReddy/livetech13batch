@@ -27,7 +27,6 @@ public class Rohit_SignOut {
 	@FindBy(xpath= "//a[text()='Change Password']")
 	private WebElement changePassword;
 
-
 	public void clickSupport() {
 
 		support.click();		
